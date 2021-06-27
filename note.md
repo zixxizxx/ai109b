@@ -13,6 +13,7 @@
 線性規劃、整數規劃、深度與廣度搜尋法 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0318%20%E7%B7%9A%E6%80%A7%E8%A6%8F%E5%8A%83%E3%80%81%E6%95%B4%E6%95%B8%E8%A6%8F%E5%8A%83%E3%80%81%E6%B7%B1%E5%BA%A6%E8%88%87%E5%BB%A3%E5%BA%A6%E6%90%9C%E5%B0%8B%E6%B3%95%20Done.pdf
 八皇后問題、真值表 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0325%20%E5%85%AB%E7%9A%87%E5%90%8E%E5%95%8F%E9%A1%8C%E3%80%81%E7%9C%9F%E5%80%BC%E8%A1%A8%20Done.pdf
 數學基礎、電磁場的動力學理論 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0401%20%E6%95%B8%E5%AD%B8%E5%9F%BA%E7%A4%8E%E3%80%81%E9%9B%BB%E7%A3%81%E5%A0%B4%E7%9A%84%E5%8B%95%E5%8A%9B%E5%AD%B8%E7%90%86%E8%AB%96%20Done.pdf
+電子下棋 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0415%20%E9%9B%BB%E5%AD%90%E4%B8%8B%E6%A3%8B%20Done.pdf 
 神經網路、梯度下降法 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0422%20%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E3%80%81%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95%20Done.pdf
 邏輯推論 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0429%20%E9%82%8F%E8%BC%AF%E6%8E%A8%E8%AB%96%20Done.pdf
 科學計算 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0506%20%E7%A7%91%E5%AD%B8%E8%A8%88%E7%AE%97%20Done.pdf
