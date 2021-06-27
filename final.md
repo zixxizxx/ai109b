@@ -1,5 +1,5 @@
 # 人工智慧期末專案 五子棋
-- 本程式修改自[陳鍾誠老師](https://gitlab.com/ccc109/ai/-/blob/master/11-chess/01-gomoku/gomoku.py)github專案
+本程式修改自[陳鍾誠老師](https://gitlab.com/ccc109/ai/-/blob/master/11-chess/01-gomoku/gomoku.py)github專案
 
 ### 授權聲明
 - 本專案中的程式採用[LICENSE](https://github.com/zixxizxx/ai109b/pull/1/commits/6979f658a74c6042dfe458f82019a2714cf3c2c8)
