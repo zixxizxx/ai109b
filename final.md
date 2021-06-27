@@ -1,5 +1,7 @@
 # 人工智慧期末專案 五子棋
-本程式修改自陳鐘誠github專案
+- 本程式修改自[陳鐘誠](https://gitlab.com/ccc109/ai/-/blob/master/11-chess/01-gomoku/gomoku.py)github專案
+- [授權聲明](https://github.com/zixxizxx/ai109b/pull/1)
+
 ### 極小化極大演算法
 - 是一種找出失敗的最大可能性中的最小值的演算法
 - 演算法是一個零總和演算法，即一方要在可選的選項中選擇將其優勢最大化的選擇，另一方則選擇令對手優勢最小化的方法
