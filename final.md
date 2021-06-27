@@ -1,6 +1,9 @@
 # 人工智慧期末專案 五子棋
-- 本程式修改自[陳鐘誠](https://gitlab.com/ccc109/ai/-/blob/master/11-chess/01-gomoku/gomoku.py)github專案
-- [授權聲明](https://github.com/zixxizxx/ai109b/pull/1)
+- 本程式修改自[陳鍾誠老師](https://gitlab.com/ccc109/ai/-/blob/master/11-chess/01-gomoku/gomoku.py)github專案
+
+### 授權聲明
+- 本專案中的程式採用[LICENSE](https://github.com/zixxizxx/ai109b/pull/1/commits/6979f658a74c6042dfe458f82019a2714cf3c2c8)
+- 部分圖片及內容採用維基百科:[CC BY-SA 3.0協議文本](https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC)
 
 ### 極小化極大演算法
 - 是一種找出失敗的最大可能性中的最小值的演算法
