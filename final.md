@@ -9,10 +9,15 @@
 - 是一種找出失敗的最大可能性中的最小值的演算法
 - 演算法是一個零總和演算法，即一方要在可選的選項中選擇將其優勢最大化的選擇，另一方則選擇令對手優勢最小化的方法
 
+![image](https://user-images.githubusercontent.com/47874924/123545587-60d61180-d78b-11eb-8844-1007a77e3511.png)
+
 
 ### Alpha-beta剪枝演算法
 - 用以減少極小化極大演算法（Minimax演算法）搜尋樹的節點數
 - 優點是減少搜尋樹的分枝，將搜尋時間用在「更有希望」的子樹上，繼而提升搜尋深度
+
+![image](https://user-images.githubusercontent.com/47874924/123545581-56b41300-d78b-11eb-9e6b-3917e7cb5158.png)
+
 
 
 #### 程式
@@ -306,4 +311,6 @@ f - - - - - - - - - - - - - - - - f
 - [MiniMax算法优化:Alpha-Beta剪枝算法](https://miketech.it/alpha-beta-pruning)
 - [colingogogo](https://github.com/colingogogo/gobang_AI/blob/master/gobang_AI.py)
 - [自制五子棋](https://ewind.us/2015/js-gomoku-2/)
+- [極大極小演算法轉](https://www.itread01.com/content/1543303802.html)
+- [Minimax Algorithm and Alpha-beta Pruning](https://mropengate.blogspot.com/2015/04/ai-ch4-minimax-alpha-beta-pruning.html)
 
