@@ -4,6 +4,7 @@
 ### 授權聲明
 - 本專案中的程式採用[LICENSE]()
 - 部分圖片及內容採用維基百科:[CC BY-SA 3.0協議文本](https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC)
+
 內容 | 網址
 -----|--------
 簡介、爬山演算法 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0225%20%E7%B0%A1%E4%BB%8B%E3%80%81%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95Done.pdf
