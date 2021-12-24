@@ -7,7 +7,7 @@
 
 內容 | 網址
 -----|--------
-簡介、爬山演算法 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0225%20%E7%B0%A1%E4%BB%8B%E3%80%81%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95Done.pdf
+簡介、爬山演算法 |[week1](https://github.com/zixxizxx/ai109b/blob/main/note/AI0225%20%E7%B0%A1%E4%BB%8B%E3%80%81%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95Done.pdf)
 爬山演算法、模擬退火法 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0304%20%E7%88%AC%E5%B1%B1%E6%BC%94%E7%AE%97%E6%B3%95%E3%80%81%E6%A8%A1%E6%93%AC%E9%80%80%E7%81%AB%E6%B3%95%20Done.pdf
 遺傳演算法、加密技術 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0311%E9%81%BA%E5%82%B3%E6%BC%94%E7%AE%97%E6%B3%95%E3%80%81%E5%8A%A0%E5%AF%86%E6%8A%80%E8%A1%93%20Done.pdf
 線性規劃、整數規劃、深度與廣度搜尋法 | https://github.com/zixxizxx/ai109b/blob/main/note/AI0318%20%E7%B7%9A%E6%80%A7%E8%A6%8F%E5%8A%83%E3%80%81%E6%95%B4%E6%95%B8%E8%A6%8F%E5%8A%83%E3%80%81%E6%B7%B1%E5%BA%A6%E8%88%87%E5%BB%A3%E5%BA%A6%E6%90%9C%E5%B0%8B%E6%B3%95%20Done.pdf
