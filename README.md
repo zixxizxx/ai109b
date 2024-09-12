@@ -8,3 +8,22 @@
 教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
 學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
 課程內容 | https://gitlab.com/ccc109/ai
+
+筆記內容 | 網址
+-----|--------
+ 簡介、爬山演算法| 
+ 爬山演算法、模擬退火法 |
+ 遺傳演算法、加密技術 |
+ 線性規劃、整數規劃、深度與廣度搜尋法 |
+ 八皇后問題、真值表 |
+ 數學基礎、電磁場的動力學理論 |
+ 電子下棋 | 
+ 神經網路、梯度下降法 |
+ 邏輯推論 |
+ 科學計算 |
+ 
+ 
+ 
+ 
+ 
+ 
